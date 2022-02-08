@@ -2,7 +2,7 @@
 
 ### I am a coffee nerd with a passion for music, books, and programming! 
 
-- 🙋🏽‍♂️ **My Pronouns**: He/Him/They/Them
+- 🙋🏽‍♂️ **My Pronouns**: He/Him
 - 🌱 **I’m currently learning**: React and Tachyons
 - 🥅 **2022 Goals**: Contribute more to Open Source projects - Read 30 Books - Understand Crypto and NFT's in more depth
 - ⚡ **Fun Fact**: I love to DJ and I am learning how to speak Norwegian (Bokmål)
