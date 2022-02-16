@@ -15,6 +15,8 @@
 [<img align="left" alt="Luke Bergmann | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Luke Bergmann | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
 [<img align="left" alt="Luke Bergmann | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Luke Bergmann | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freelancer.svg" />][portfolio]
+
 
 <br>
 
@@ -41,5 +43,6 @@
 [goodreads]: https://www.goodreads.com/user/show/20671456-luke-bergmann
 [medium]: https://lukebergmann.medium.com/
 [gmail]: mailto:lukebergmann0@gmail.com
+[portfolio]: https://lukebergmann.com/
 
 
